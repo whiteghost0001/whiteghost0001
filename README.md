@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=55&center=true&vCenter=true&pause=1000&width=800&height=100&lines=Front-End+Developer+;Smart+Contract+Engineer;Building+seamless+UI+........;and+decentralized+magic%E2%9A%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=55&center=true&vCenter=true&pause=1000&width=800&height=100&lines=Front-End+Developer+;Smart+Contract+Engineer;Building+seamless+UI+;Opensource+Contributer........;and+decentralized+magic%E2%9A%A1" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
 ## 🌐 Socials:
 <p align="center">
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/stair.reo.type/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the_ckhemist?igsh=MXEweWoyeTZpZ2Z1Ng==) -->
-<!--   <a href="https://www.linkedin.com/in/gideon-joash-3b692634b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<a href="[https://www.linkedin.com/in/gideon-joash-3b692634b](https://www.linkedin.com/in/khalid-nasir-a2a07b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://x.com/whiteghost002)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
